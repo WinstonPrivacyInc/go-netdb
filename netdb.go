@@ -7,7 +7,8 @@
 // All return values are pointers that point to the entries in the
 // original list of protocols and services. Manipulating the entries
 // would affect the entire program.
-package netdb // import "honnef.co/go/netdb"
+// import "honnef.co/go/netdb"
+package netdb
 
 import (
 	"io/ioutil"
